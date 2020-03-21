@@ -1,2 +1,2 @@
-# lil_funcs
+# functions
 some things ive done
