@@ -45,7 +45,7 @@ class Function():
             else:
                 self.interval = [x, self.interval[1]]
             c = c + 1
-        return "\n --- dziekuje za skorzystanie z metody stycznych ---\n\n by Daniel Drewniany&Olena Chorna"
+        return "\n --- dziekuje za skorzystanie z metody stycznych ---\n\n"
 
     def bisection_method(self, number_of_iterations):
         print("\n\n*bisection_method*\n")
@@ -58,4 +58,4 @@ class Function():
             else:
                 self.interval = [x, self.interval[1]]
             c = c + 1
-        return "\n --- dziekuje za skorzystanie z metody bisekcji ---\n\n by Daniel Drewniany&Olena Chorna"
+        return "\n --- dziekuje za skorzystanie z metody bisekcji ---\n\n"
