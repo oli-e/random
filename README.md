@@ -1,4 +1,4 @@
-# functions
+# **random scripts**
 
-**random scripts**
-mostly networking
+
+## mostly networking
