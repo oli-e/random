@@ -1,4 +1,2 @@
-# **random scripts**
+# some random files :grin:
 
-
-## mostly networking
